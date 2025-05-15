@@ -47,7 +47,7 @@ def parameterized_skills():
 | Short FPT Runtime Derivation  | 5     | Complexity Theory              |
 | Treewidth DP Template         | 10    | Recursion over Tree Decomposition |
 
-📁 See [`midsem/solutions/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/Midsem) for well-documented answers and techniques.
+📁 See [`midsem/solutions/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/tree/main/Midsem) for well-documented answers and techniques.
 
 ---
 
@@ -59,7 +59,7 @@ def parameterized_skills():
 | K₄-Packing with Constraints         | 10    | Color-Coding Technique        |
 | Dominating Set in Split Graphs     | 10    | W[2]-Hardness Proof           |
 
-📁 See [`endsem/solutions/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/Endsem) for reduction strategies, treewidth templates, and color-coding walkthroughs.
+📁 See [`endsem/solutions/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/tree/main/Endsem) for reduction strategies, treewidth templates, and color-coding walkthroughs.
 
 ---
 
@@ -73,7 +73,7 @@ Each homework is tailored to one foundational topic in parameterized complexity.
 | HW2      | Color Coding & Applications  |
 | HW3      | Treewidth: Intro & Construction |
 
-📁 Refer to [`homeworks/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/Homeworks) for statements and solutions.
+📁 Refer to [`homeworks/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/tree/main/Homeworks) for statements and solutions.
 
 ---
 
@@ -87,7 +87,7 @@ Short quizzes designed to evaluate core understanding.
 | Quiz 2 | Kernelization Logic      |
 | Quiz 3 | Tree Decompositions      |
 
-📁 All available in [`quizzes/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/Quizzes)
+📁 All available in [`quizzes/`](https://github.com/sahilgittushir/CSE619-PALGO-2024/tree/main/Quizzes)
 
 ---
 
